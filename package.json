@@ -1,0 +1,27 @@
+{
+  "name": "draft-js-ace",
+  "version": "1.0.1",
+  "description": "Code highlighting for DraftJS using Ace",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daisuke Kajiyama (https://github.com/dkjym)",
+  "homepage": "https://github.com/dkjym/draft-js-ace",
+  "license": "MIT",
+  "keywords": [
+    "draft-js",
+    "ace"
+  ],
+  "dependencies": {
+    "ace-builds": "^1.4.2",
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "draft-js": "^0.10.5",
+    "expect": "^24.0.0",
+    "jest": "^24.0.0",
+    "react-dom": "^16.7.0"
+  }
+}
