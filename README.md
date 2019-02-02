@@ -2,8 +2,6 @@
 
 `draft-js-ace` is a decorator for DraftJS to highlight code blocks using [Ace](https://github.com/ajaxorg/ace).
 
-![Ace](./preview.gif)
-
 ## Installation
 
 ```
